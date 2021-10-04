@@ -1,0 +1,130 @@
+
+body{
+    background-color: rgb(237, 241, 241);
+    justify-content: center;  
+}
+
+.logo{
+    width: 20%;
+    padding: 40px 5px 10px 100px;
+    margin: 25px 2px 7px 10px;
+}
+.pictureOne{
+    padding: 100px 80px 10px 100px;  
+}
+.pictureTwo{
+    padding: 130px 20px 90px 50px;
+   
+}
+h3{
+    font-size: 70px;
+    margin: 55px 2px 7px 30px;
+}
+
+.statementOne{
+    margin: 0px 2px 7px 0px;
+}
+.statementTwo{
+    margin: 0px 20px 30px 100px;
+}
+
+#buttonSection{
+    margin: 0px 20px 30px 100px;  
+}
+
+#buttonOne {
+    background-color: #4D96A9;
+    border: none;
+    color: white;
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    border-radius: 50px;
+  }
+  #buttonTwo{
+    background-color: #855FB1;
+    border: none;
+    color: white;
+    padding: 13px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    border-radius: 50px;
+
+}
+.containerOne{
+    display: flex;
+
+}
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;        
+  }
+  .containerTwo{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 50px;
+}
+#statementThree{
+    color:darkcyan;
+    margin: 60px 20px 30px 550px;
+}
+#statementFour{
+    color:#28283D;
+    margin: 0px 2px 3px 520px;
+}
+#statementFive{
+    color:#28283D;
+    margin: 6px 20px 3px 550px;
+}
+#statementSix{
+    color:#87879D;
+    margin: 30px 20px 3px 450px;
+}
+.dot{
+    margin: 150px 20px 1px 630px;
+    padding: 12px 5px 9px 20px;
+    background-color: #bbb;
+}
+.footer{
+    background-image: url(https://raw.githubusercontent.com/decadevs/ONRAMP-010-WEEK-ONE/master/starter-code/utils/assets/images/image-footer.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-color: #4D96A9;
+    margin: 30px 20px 30px 100px;
+    
+}
+#statementSeven{
+    color:#fff;
+    margin: 30px 20px 30px 100px;
+}
+
+#statementEight{
+    color:#fff;
+    margin: 30px 20px 3px 450px;
+}
+#buttonThree {
+    background-color: #855FB1;
+    border: none;
+    color: white;
+    padding: 13px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    border-radius: 50px;
+    margin: 3px 3px 20px 1000px;
+}
+.vertical {
+            border-left: 1px solid rgb(104, 83, 124);
+            height: 150px;
+            position:absolute;
+            left: 50%;
+        }
