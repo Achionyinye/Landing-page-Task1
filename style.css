@@ -99,6 +99,7 @@ h3{
     background-size: cover;
     background-color: #4D96A9;
     margin: 30px 20px 30px 100px;
+    background-blend-mode: overlay ;
     
 }
 #statementSeven{
